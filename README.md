@@ -2,9 +2,9 @@
 
 A reproducible scientific-computing prototype for screening compact exoplanet systems with analytical stability diagnostics and a finite-horizon REBOUND follow-up step.
 
-## Project status
+## Project scope
 
-This repository is a portfolio-quality prototype for workflow development, validation, and honest scientific screening. It is not a validated long-term stability predictor, not a replacement for established dynamical tools such as SPOCK, and not a machine-learning model.
+This repository documents a compact exoplanet stability screening workflow with explicit assumptions, validation checks, and numerical follow-up. It is not a validated long-term stability predictor, not a replacement for established dynamical tools such as SPOCK, and not a machine-learning model.
 
 The project currently demonstrates:
 - data validation and provenance tracking for observed systems
@@ -61,8 +61,6 @@ output tables, logs, and figures
 Prototype_2/
 ├── README.md
 ├── LICENSE
-├── CITATION.cff
-├── CHANGELOG.md
 ├── requirements.txt
 ├── requirements-lock.txt
 ├── config.yaml
@@ -90,10 +88,7 @@ Prototype_2/
 ├── reports/
 │   ├── experiment_log.md
 │   ├── methods.md
-│   ├── limitations.md
-│   ├── physics_validation.md
-│   ├── evaluation_validation.md
-│   └── release_validation.md
+│   └── limitations.md
 └── .venv/                  # local-only; not part of the public repo
 ```
 
@@ -185,10 +180,6 @@ This prototype is intended to be transparent about:
 
 This project is distributed under the MIT License. See `LICENSE` for details.
 
-## Citation
-
-If you use this project in your own materials, cite it using `CITATION.cff`.
-
 ## References and context
 
 This prototype draws from standard analytical and numerical methods, including:
@@ -197,7 +188,3 @@ This prototype draws from standard analytical and numerical methods, including:
 - AMD-based screening diagnostics
 - near-commensurability proximity diagnostics
 - finite-horizon REBOUND integration
-
-## Release note
-
-This repository is a frozen scientific-computing prototype intended for public portfolio presentation, not a final astrophysical result.

@@ -1,0 +1,9 @@
+{
+  "system_name": "Kepler-36",
+  "seed": 1,
+  "integrator": "WHFast",
+  "status": "completed",
+  "final_time": 378.915537303217,
+  "timestep": 0.01,
+  "integration_horizon": 378.915537303217
+}

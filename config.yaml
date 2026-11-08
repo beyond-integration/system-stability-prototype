@@ -1,0 +1,26 @@
+units:
+  length: AU
+  mass: Msun
+  time: year
+
+simulation:
+  integrator_baseline: WHFast
+  integration_orbits: 10000
+  realizations_per_configuration: 3
+  random_seed: 20261105
+  whfast_timestep_fraction: 0.0333333333
+
+validation:
+  timestep_halving: true
+  record_energy_error: true
+  record_angular_momentum_error: true
+
+data:
+  archive_table: ps
+  require_complete_system: true
+
+outputs:
+  tables: outputs/tables
+  figures: outputs/figures
+  logs: outputs/logs
+  simulations: outputs/simulations

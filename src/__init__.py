@@ -1,0 +1,1 @@
+"""Stability project package placeholder."""

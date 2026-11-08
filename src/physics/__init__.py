@@ -1,0 +1,1 @@
+"""Analytical physics package placeholder."""

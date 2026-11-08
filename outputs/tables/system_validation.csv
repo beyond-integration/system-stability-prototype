@@ -1,0 +1,6 @@
+system_name,n_planets,required_parameters_valid,assumptions_supported,status,warnings
+HD 219134,6,True,True,VALID,
+Kepler-11,6,True,True,VALID,
+Kepler-223,4,True,True,VALID,
+Kepler-36,2,True,True,VALID,
+TRAPPIST-1,7,True,True,VALID,

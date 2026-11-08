@@ -1,0 +1,9 @@
+{
+  "system_name": "TRAPPIST-1",
+  "seed": 1,
+  "integrator": "WHFast",
+  "status": "completed",
+  "final_time": 41.365388364134155,
+  "timestep": 0.01,
+  "integration_horizon": 41.365388364134155
+}

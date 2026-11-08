@@ -1,0 +1,7 @@
+system_name,planet_name,period_days,period_unc_days,semimajor_axis_au,semimajor_axis_unc_au,mass_mj,mass_unc_mj,eccentricity,ecc_unc,stellar_mass_msun,stellar_mass_unc_msun,source
+Kepler-11,Kepler-11 b,10.30375,0.00016,0.091,0.003,0.014,0.007,0.0,0.0,0.95,0.1,<a refstr=LISSAUER_ET_AL__2011 href=https://ui.adsabs.harvard.edu/abs/2011Natur.470...53L/abstract target=ref> Lissauer et al. 2011 </a>
+Kepler-11,Kepler-11 c,13.02502,8e-05,0.106,0.004,0.042,0.015,0.0,0.0,0.95,0.1,<a refstr=LISSAUER_ET_AL__2011 href=https://ui.adsabs.harvard.edu/abs/2011Natur.470...53L/abstract target=ref> Lissauer et al. 2011 </a>
+Kepler-11,Kepler-11 d,22.68719,0.00021,0.159,0.005,0.019,0.01,0.0,0.0,0.95,0.1,<a refstr=LISSAUER_ET_AL__2011 href=https://ui.adsabs.harvard.edu/abs/2011Natur.470...53L/abstract target=ref> Lissauer et al. 2011 </a>
+Kepler-11,Kepler-11 e,31.9996,0.0008,0.195,0.002,0.025,0.005,0.012,0.006,0.961,0.025,<a refstr=LISSAUER_ET_AL__2013 href=https://ui.adsabs.harvard.edu/abs/2013ApJ...770..131L/abstract target=ref> Lissauer et al. 2013 </a>
+Kepler-11,Kepler-11 f,46.6888,0.0027,0.25,0.002,0.006,0.003,0.013,0.011,0.961,0.025,<a refstr=LISSAUER_ET_AL__2013 href=https://ui.adsabs.harvard.edu/abs/2013ApJ...770..131L/abstract target=ref> Lissauer et al. 2013 </a>
+Kepler-11,Kepler-11 g,118.3807,0.001,0.466,0.004,0.079,0.0,0.15,0.0,0.961,0.025,<a refstr=LISSAUER_ET_AL__2013 href=https://ui.adsabs.harvard.edu/abs/2013ApJ...770..131L/abstract target=ref> Lissauer et al. 2013 </a>

@@ -1,0 +1,7 @@
+system_name,planet_name,period_days,period_unc_days,semimajor_axis_au,semimajor_axis_unc_au,mass_mj,mass_unc_mj,eccentricity,ecc_unc,stellar_mass_msun,stellar_mass_unc_msun,source
+HD 219134,HD 219134 b,3.092926,1e-05,0.03876,0.00047,0.01491363,0.0005978,0.0,0.0,0.81,0.03,<a refstr=GILLON_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..56G/abstract target=ref>Gillon et al. 2017</a>
+HD 219134,HD 219134 c,6.76458,0.00033,0.0653,0.0008,0.01371803,0.00069219,0.062,0.039,0.81,0.03,<a refstr=GILLON_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..56G/abstract target=ref>Gillon et al. 2017</a>
+HD 219134,HD 219134 f,22.717,0.015,0.1463,0.0018,0.02296825,0.00125853,0.148,0.047,0.81,0.03,<a refstr=GILLON_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..56G/abstract target=ref>Gillon et al. 2017</a>
+HD 219134,HD 219134 d,46.859,0.028,0.237,0.003,0.05087625,0.00201366,0.138,0.025,0.81,0.03,<a refstr=GILLON_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..56G/abstract target=ref>Gillon et al. 2017</a>
+HD 219134,HD 219134 g,94.2,0.2,0.3753,0.0004,0.034,0.004,0.0,0.0,0.794,0.037,<a refstr=VOGT_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015ApJ...814...12V/abstract target=ref>Vogt et al. 2015</a>
+HD 219134,HD 219134 h,2104.0,16.0,2.968,0.037,0.308,0.014,0.025,0.027,0.788484,0.026654,<a refstr=ROSENTHAL_ET_AL__2021 href=https://ui.adsabs.harvard.edu/abs/2021ApJS..255....8R/abstract target=ref>Rosenthal et al. 2021</a>

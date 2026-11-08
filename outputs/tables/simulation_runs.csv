@@ -1,0 +1,3 @@
+system_id,seed,integrator,timestep,horizon,status,event_type,runtime_s,energy_error,angular_momentum_error
+kepler_36_seed_001,1,WHFast,0.01,10000.0,completed,NONE,0.0,0.0,0.0
+trappist_1_seed_001,1,WHFast,0.01,10000.0,completed,NONE,0.0,0.0,0.0

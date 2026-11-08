@@ -1,0 +1,27 @@
+# Python environment and tooling
+.venv/
+venv/
+.pytest_cache/
+.pytest_cache/**
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+*.orig
+.DS_Store
+Thumbs.db
+
+# Local logs and caches that should not be versioned
+*.log
+
+# Optional: keep project outputs tracked for reproducibility
+# outputs/
+# reports/

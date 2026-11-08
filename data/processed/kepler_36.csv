@@ -1,0 +1,3 @@
+system_name,planet_name,period_days,period_unc_days,semimajor_axis_au,semimajor_axis_unc_au,mass_mj,mass_unc_mj,eccentricity,ecc_unc,stellar_mass_msun,stellar_mass_unc_msun,source
+Kepler-36,Kepler-36 b,13.83989,0.00082,0.1153,0.0015,0.014,0.001,0.039,0.0,1.071,0.043,<a refstr=CARTER_ET_AL__2012 href=https://ui.adsabs.harvard.edu/abs/2012Sci...337..556C/abstract target=ref> Carter et al. 2012 </a>
+Kepler-36,Kepler-36 c,16.23855,0.00038,0.1283,0.0016,0.025,0.002,0.033,0.0,1.071,0.043,<a refstr=CARTER_ET_AL__2012 href=https://ui.adsabs.harvard.edu/abs/2012Sci...337..556C/abstract target=ref> Carter et al. 2012 </a>

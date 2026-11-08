@@ -1,0 +1,2 @@
+method,tp,fp,fn,tn,abstentions,coverage,false_safe_rate,risk_capture,workload_saved,confidence_interval
+proposed_validity_aware,0,0,0,0,0,1.0,0.0,0.0,0.0,not yet evaluated

@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+rebound>=4.0
+astropy>=6.0
+pytest>=8.0

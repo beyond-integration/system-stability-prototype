@@ -19,9 +19,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Local logs and caches that should not be versioned
+
 *.log
 
-# Optional: keep project outputs tracked for reproducibility
-# outputs/
-# reports/
+
